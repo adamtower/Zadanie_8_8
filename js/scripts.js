@@ -8,4 +8,5 @@ var textCharsAfter = text.replace('Papugi', animalUpperCased);
 //console.log(text);
 //console.log(animalUpperCased);
 //console.log(textCharsAfter.length/2);
-console.log(textCharsAfter.slice(0,45));
+//console.log(textCharsAfter.slice(0,45));
+console.log(textCharsAfter.slice(0,textCharsAfter.length/2));
